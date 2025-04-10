@@ -12,42 +12,42 @@ it also shows the improvement of the ratio of male and female atheleats since 19
 #How i got the insights 
 the insights were carefuly analysed from the multple EDA representations i have done. 
 
-#Training plan
+# Training plan
 
 based on my data i have analyzed that more rigrius trainng programs should be put into place to athleats over the age of 30 to help them be fitter when they are 40. this would help the curve of more gold medalists. 
 
 
-#Sponsorship deals
+# Sponsorship deals
 
 The sponsorships that should go to the olympics should target the audience of 20 to 30 year olds to have a better chance of securing payment
 
 
-#Gender equality
+# Gender equality
 
 the next steop for gender equality is to have mixed events where male and female partcpants could be there. this would increse the likelyhood of more female partcpation. 
 
-#Sources-Analysis
+# Sources-Analysis
 
 
 https://www.academia.edu/107742231/Exploratory_Data_Analysis_EDA_A_Study_of_Olympic_Medallist
 https://www.researchgate.net/publication/376132592_Organizational_Model_and_Event_Operation_of_the_Modern_Olympic_Games_-A_Case_Study_of_the_2024_Paris_Olympic_Games
 https://theweek.com/sports/olympics-cost-hosting
 
-#Sources-Code
+# Sources-Code
 
 https://medium.com/@denizmogulkoc/exploratory-data-analysis-on-olympics-data-e3d4aa3cfc6d
 https://api.rpubs.com/varun_sukumar27/410792
 https://www.youtube.com/watch?v=-i_1UY0nuX8
 
 
-#Help
+# Help
 
 To access the codes, go to the button that says main and click on it 
 then Click in the button that says master, this switches the branch 
 
 then find the file named Olympic_projects and open it to access the codes. 
 
-#Scereenshots of all the graphs
+# Scereenshots of all the graphs
 ![Screenshot 2025-04-10 214905](https://github.com/user-attachments/assets/856b599f-42f0-40ee-ae5e-cb461e1d1655)
 ![Screenshot 2025-04-10 214838](https://github.com/user-attachments/assets/deaded38-7079-47d9-b526-07c12df3e83e)
 ![Screenshot 2025-04-10 214751](https://github.com/user-attachments/assets/5815c6ca-f7aa-4d25-8940-e58cce5fde6b)
