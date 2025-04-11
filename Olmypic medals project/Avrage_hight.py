@@ -16,6 +16,7 @@ female_height = avg_height[avg_height['Sex'] == 'F']
 plt.figure(figsize=(20,10))
 plt.plot(male_height['Year'], male_height['Height'], label='Male', color='blue', marker='o')
 plt.plot(female_height['Year'], female_height['Height'], label='Female', color='pink', marker='o')
+plt.title('Average Height of Athletes Over the Years')
 plt.xticks(rotation=90)
 plt.xlabel('Height')
 plt.ylabel('Count')
