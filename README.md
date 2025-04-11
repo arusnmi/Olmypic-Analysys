@@ -1,30 +1,29 @@
-# Olmypic-Analysys
+# Olympic-Analysys
 
-for my EDA, i used the athleate.csv file my analysis. The visualizations of the data that i created mostly centered aroung bar graphs, as with a large set of data, i was able to compute the information better. I used the libaries matplotlib, and pandas, along with SNS. 
+For my EDA, I used the athlete.csv file for my analysis. The visualizations of the data that I created mostly centered around bar graphs, as with a large dataset, I was able to interpret the information better. I used the libraries Matplotlib, Pandas, along with Seaborn (sns).
 
-The methords of data collection i used is by maluplating the exsiting datasets to get the desired resualts. 
+The methods of data collection I used involved manipulating the existing datasets to get the desired results.
 
 
-# Olmypic-Insights:
+# Olympic-Insights:
 
-the main findings from my research that i found is that there are not a lot of people who won a gold medal over the age of 40, this insight lead tme to belive that olympic athleates start losing their performance at the age of forty. 
-it also shows the improvement of the ratio of male and female atheleats since 1940. 
-#How i got the insights 
-the insights were carefuly analysed from the multple EDA representations i have done. 
+The main findings from my research are that there are not many people who have won a gold medal over the age of 40. This insight led me to believe that Olympic athletes start losing their performance around the age of forty.
+It also shows the improvement in the ratio of male and female athletes since 1940.
+
+
 
 # Training plan
 
-based on my data i have analyzed that more rigrius trainng programs should be put into place to athleats over the age of 30 to help them be fitter when they are 40. this would help the curve of more gold medalists. 
-
+Based on my data, I have analyzed that more rigorous training programs should be put in place for athletes over the age of 30 to help them stay fitter by the time they are 40. This could help increase the number of gold medalists in that age group.
 
 # Sponsorship deals
 
-The sponsorships that should go to the olympics should target the audience of 20 to 30 year olds to have a better chance of securing payment
+Sponsorships for the Olympics should target the audience of 20- to 30-year-olds to have a better chance of securing revenue.
 
 
 # Gender equality
 
-the next steop for gender equality is to have mixed events where male and female partcpants could be there. this would increse the likelyhood of more female partcpation. 
+The next step for gender equality is to have mixed events where male and female participants can compete together. This would increase the likelihood of more female participation.
 
 # Sources-Analysis
 
@@ -42,15 +41,15 @@ https://www.youtube.com/watch?v=-i_1UY0nuX8
 
 # Help
 
-To access the codes, go to the button that says main and click on it 
-then Click in the button that says master, this switches the branch 
+To access the code, go to the button that says "Main" and click on it.
+Then, click on the button that says "Master"—this switches the branch.
 
-then find the file named Olympic_projects and open it to access the codes. 
+Next, find the file named "Olympic_projects" and open it to access the code.1
 
 # Scereenshots of all the graphs
 ![Screenshot 2025-04-10 214905](https://github.com/user-attachments/assets/856b599f-42f0-40ee-ae5e-cb461e1d1655)
 ![Screenshot 2025-04-10 214838](https://github.com/user-attachments/assets/deaded38-7079-47d9-b526-07c12df3e83e)
-![Screenshot 2025-04-10 214751](https://github.com/user-attachments/assets/5815c6ca-f7aa-4d25-8940-e58cce5fde6b)
+![Screenshot 2025-04-11 095951](https://github.com/user-attachments/assets/ad2f19f6-46e0-4263-b79f-a79f6778b91b)
 ![Screenshot 2025-04-10 214700](https://github.com/user-attachments/assets/56489d66-d307-46ac-b6cf-d4b79995d58a)
 ![Screenshot 2025-04-10 104556](https://github.com/user-attachments/assets/b3bad1c7-8d92-4c3e-b2b5-76c457da6e4f)
 ![Screenshot 2025-04-10 104532](https://github.com/user-attachments/assets/121ca6c2-a8d0-4d29-871a-0f446ee84d3b)
